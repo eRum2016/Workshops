@@ -2,7 +2,7 @@
 
 * [Warsztaty wprowadzające do R - Adam Dąbrowski (UAM WNGiG)](details/Warsztaty wprowadzajace do R.md)
 
-* [Predictive modeling with R - Artur Suchwałko (nstructor at QuantUp (Poland) ||| co-owner / CSO / Vice-CEO at MedicWave (Sweden))](details/Predictive modeling with R.md)
+* [Predictive modeling with R - Artur Suchwałko (Instructor at QuantUp (Poland) ||| co-owner / CSO / Vice-CEO at MedicWave (Sweden))](details/Predictive modeling with R.md)
 
 * [Data Visualization using R - Matthias Templ (Vienna University of Technology & Statistics Austria & data-analysis OG)](details/Data Visualization using R.md)
 
