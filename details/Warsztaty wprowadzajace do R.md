@@ -1,4 +1,4 @@
-##  Warsztaty wprowadzające do R - Adam Dąbrowski (UAM WNGiG)
+##  Warsztaty wprowadzające do R (in Polish) - Adam Dąbrowski (UAM WNGiG)
 
 Description of proposed workshop
 * 3 godzinne warsztaty wprowadzające z języka R.
