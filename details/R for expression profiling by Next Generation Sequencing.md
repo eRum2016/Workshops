@@ -1,4 +1,4 @@
-## R for expression profiling by Next Generation Sequencing - Paweł Łabaj (Austrian Academy of Science / Boku Univeristy Vienna) 
+## R for expression profiling by Next Generation Sequencing - Paweł Łabaj (Austrian Academy of Science / Boku University Vienna) 
  
 **Description of proposed workshop**
 

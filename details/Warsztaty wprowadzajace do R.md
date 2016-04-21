@@ -1,4 +1,4 @@
-##  Warsztaty wprowadzające do R - Adam Dąbrowski (UAM WNGiG)
+##  Warsztaty wprowadzające do R (in Polish) - Adam Dąbrowski (UAM WNGiG)
 
 Description of proposed workshop
 * 3 godzinne warsztaty wprowadzające z języka R.
@@ -18,7 +18,7 @@ Plan of the workshop
 * Selekcja danych
  
 Research experience
-* 2 years, PhD student, urban ecology,
+* 2 years, PhD student, urban ecology
  
 Experience as lecturer/teacher
 * 2 years

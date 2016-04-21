@@ -43,4 +43,4 @@ Early career researcher, 4 years post-PhD and whose research is in developing me
  
 **Experience as lecturer/teacher**
 
-Lecturer in Statistics, has taught a range of courses over the last 10 years from first year undergraduate introductory courses to PhD level courses including theoretical and practical courses. Has also given this course to companies who are interested in using the package with positive feedback specifically related to its focus on applicabi
+Lecturer in Statistics, has taught a range of courses over the last 10 years from first year undergraduate introductory courses to PhD level courses including theoretical and practical courses. Has also given this course to companies who are interested in using the package with positive feedback specifically related to its focus on applicability.

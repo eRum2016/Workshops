@@ -1,4 +1,4 @@
-## Predictive modeling with R - Artur Suchwałko (nstructor at QuantUp (Poland) ||| co-owner / CSO / Vice-CEO at MedicWave (Sweden))
+## Predictive modeling with R - Artur Suchwałko (Instructor at QuantUp (Poland) ||| co-owner / CSO / Vice-CEO at MedicWave (Sweden))
  
 Description of proposed workshop
 * The participants will understand how to do predictive modeling (classification) in R with `caret` package.
