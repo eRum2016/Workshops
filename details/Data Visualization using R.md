@@ -1,10 +1,10 @@
 ## Data Visualization using R - Matthias Templ (Vienna University of Technology & Statistics Austria & data-analysis OG)
  
 Description of proposed workshop
-* This is an introductionary course to statistical graphics in R. The goal is in understanding the concept of packages graphics, ggplot2 and related packages. The participants learn the advantages and disadvantages of different approaches to graphics.
+* This is an introductionary course to statistical graphics in R. The goal is to understand the concepts of packages graphics, ggplot2 and related packages. The participants learn the advantages and disadvantages of different approaches to statistical graphics implementations.
  
 Plan of the workshop
-* The workshop is related to both, the traditional approach in R to graphics as well as new concepts such as ggplot, ggmap and sparktable. The basic philosophy of the packages are explained but also a variety of applications are shown. It is out of scope to have a practical hands with exercises, but many code examples are shown.
+* The workshop is related to both, the traditional approach in R to graphics as well as new concepts such as ggplot, ggmap and sparktable. The basic philosophies of the packages are explained but also a variety of applications are shown. It is out of scope to do practical exercises, but many code examples are shown.
  
 Required packages
 * ggplot2, ggmap, ggvis, sparktable
