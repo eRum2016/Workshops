@@ -18,7 +18,7 @@ Plan of the workshop
 * Selekcja danych
  
 Research experience
-* 2 years, PhD student, urban ecology,
+* 2 years, PhD student, urban ecology
  
 Experience as lecturer/teacher
 * 2 years
