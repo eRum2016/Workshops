@@ -1,5 +1,8 @@
 # Workshops
 
+## Available space and registration: http://erum.ue.poznan.pl
+
+
 * Morning (9:00 - 12:30):
     + [Warsztaty wprowadzające do R (in Polish)](details/Warsztaty wprowadzajace do R.md) - Adam Dąbrowski (UAM WNGiG)
     + [Predictive modeling with R](details/Predictive modeling with R.md) - Artur Suchwałko (Data Scientist & Owner at QuantUp (Poland) ||| Co-owner / CSO / Vice-CEO at MedicWave (Sweden))
