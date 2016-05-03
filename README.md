@@ -1,6 +1,7 @@
 # Workshops
 
-## Available space and registration: http://erum.ue.poznan.pl
+## Available space: [HERE](https://docs.google.com/spreadsheets/d/1rVTUrcsiZLb-9FgGmZ1Yna_Yexu8E3gRkYNkhJpzc2c/pubhtml?gid=599578922&single=true)
+## Registration: http://erum.ue.poznan.pl
 
 
 * Morning (9:00 - 12:30):
