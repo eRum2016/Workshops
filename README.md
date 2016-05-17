@@ -14,6 +14,6 @@
 * Afternoon (13:30 - 17:00):
     +  [Introduction to Bayesian Statistics with R and Stan](details/Introduction to Bayesian Statistics with R and Stan.md) - Rasmus Bååth (Lund University)
     +  [Small Area Estimation with R](details/Small Area Estimation with R.md) - Virgilio Gómez-Rubio (Universidad de Castilla-La Mancha, Spain)
-    +  [R for industry and business: Statistical tools for quality control and improvement](details/R for industry and business/ Statistical tools for quality control and improvement.md) - Emilio L. Cano (The University of Castilla-La Mancha)
+    +  [R for industry and business: Statistical tools for quality control and improvement](details/R%20for%20industry%20and%20business:%20Statistical%20tools%20for%20quality%20control%20and%20improvement.md) - Emilio L. Cano (The University of Castilla-La Mancha)
     +  [An introduction to changepoint models using R](details/An introduction to changepoint models using R.md) - Rebecca Killick (Lancaster University)
     +  [Visualising spatial data with R: from 'base' to 'shiny'](details/Visualising%20spatial%20data%20with%20R:%20from%20'base'%20to%20'shiny'.md) - Robin Lovelace (Leeds Institute for Data Analytics, University of Leeds)
