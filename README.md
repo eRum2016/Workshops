@@ -1,8 +1,6 @@
 # Workshops
 
-## Available space: [HERE](https://docs.google.com/spreadsheets/d/1rVTUrcsiZLb-9FgGmZ1Yna_Yexu8E3gRkYNkhJpzc2c/pubhtml?gid=599578922&single=true)
-## Registration: http://erum.ue.poznan.pl
-
+## Available space: We are fully booked.
 
 * Morning (9:00 - 12:30):
     + [Warsztaty wprowadzające do R (in Polish)](details/Warsztaty wprowadzajace do R.md) - Adam Dąbrowski (UAM WNGiG)
