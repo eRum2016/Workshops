@@ -3,15 +3,15 @@
 ## Available space: We are fully booked.
 
 * Morning (9:00 - 12:30):
-    + [Warsztaty wprowadzające do R (in Polish)](details/Warsztaty wprowadzajace do R.md) - Adam Dąbrowski (UAM WNGiG)
-    + [Predictive modeling with R](details/Predictive modeling with R.md) - Artur Suchwałko (Data Scientist & Owner at QuantUp (Poland) ||| Co-owner / CSO / Vice-CEO at MedicWave (Sweden))
-    + [Data Visualization using R](details/Data Visualization using R.md) - Matthias Templ (Vienna University of Technology & Statistics Austria & data-analysis OG)
-    + [Time series forecasting with R](details/Time series forecasting with R.md) - Adam Zagdański (Faculty of Pure And Applied Mathematics, Wroclaw University of Technology; QuantUp)
-    + [R for expression profiling by Next Generation Sequencing](details/R for expression profiling by Next Generation Sequencing.md) - Paweł Łabaj (Austrian Academy of Science / Boku University Vienna)
+    + [Warsztaty wprowadzające do R (in Polish)](details/Warsztaty wprowadzajace do R.md) -- Adam Dąbrowski -- Statistical Office
+    + [Predictive modeling with R](details/Predictive modeling with R.md) -- Artur Suchwałko -- Collegium Rungego, main hall 
+    + [Data Visualization using R](details/Data Visualization using R.md) -- Matthias Templ -- Collegium Maximum, room 254
+    + [Time series forecasting with R](details/Time series forecasting with R.md) -- Adam Zagdański -- Collegium Maximum, room 253
+    + [R for expression profiling by Next Generation Sequencing](details/R for expression profiling by Next Generation Sequencing.md) -- Paweł Łabaj -- Collegium Maximum, room 157
 
 * Afternoon (13:30 - 17:00):
-    +  [Introduction to Bayesian Statistics with R and Stan](details/Introduction to Bayesian Statistics with R and Stan.md) - Rasmus Bååth (Lund University)
-    +  [Small Area Estimation with R](details/Small Area Estimation with R.md) - Virgilio Gómez-Rubio (Universidad de Castilla-La Mancha, Spain)
-    +  [R for industry and business: Statistical tools for quality control and improvement](details/R%20for%20industry%20and%20business:%20Statistical%20tools%20for%20quality%20control%20and%20improvement.md) - Emilio L. Cano (The University of Castilla-La Mancha)
-    +  [An introduction to changepoint models using R](details/An introduction to changepoint models using R.md) - Rebecca Killick (Lancaster University)
-    +  [Visualising spatial data with R: from 'base' to 'shiny'](details/Visualising%20spatial%20data%20with%20R:%20from%20'base'%20to%20'shiny'.md) - Robin Lovelace (Leeds Institute for Data Analytics, University of Leeds)
+    +  [Introduction to Bayesian Statistics with R and Stan](details/Introduction to Bayesian Statistics with R and Stan.md) -- Rasmus Bååth -- Collegium Rungego, main hall
+    +  [Small Area Estimation with R](details/Small Area Estimation with R.md) -- Virgilio Gómez-Rubio -- room 157
+    +  [R for industry and business: Statistical tools for quality control and improvement](details/R%20for%20industry%20and%20business:%20Statistical%20tools%20for%20quality%20control%20and%20improvement.md) -- Emilio L. Cano -- room 253 
+    +  [An introduction to changepoint models using R](details/An introduction to changepoint models using R.md) -- Rebecca Killick -- Statistical Office
+    +  [Visualising spatial data with R: from 'base' to 'shiny'](details/Visualising%20spatial%20data%20with%20R:%20from%20'base'%20to%20'shiny'.md) -- Robin Lovelace -- room 254
