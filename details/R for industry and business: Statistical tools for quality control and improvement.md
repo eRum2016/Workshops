@@ -26,7 +26,7 @@ Even though it is not possible to go in depth through all the quality control an
 * Measurement Systems Analysis
 * Effective Reporting
 
-Each topic will consist on a 15 minutes presentation, and 15 minutes for
+Each topic will consist of a 15 minutes presentation, and 15 minutes for
 practice with provided code files and/or data sets. In addition, two general presentations will start and finish the workshop with a brief introduction and a summary of other tools respectively.
 
 Code, data, and handouts will be available for downloading before the workshop.
