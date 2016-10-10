@@ -27,6 +27,7 @@ Following the course participants will be able to:
 **Required packages**
 
 * changepoint (and dependencies)
+* changepoint.np
  
 **Required skills of participants**
 
