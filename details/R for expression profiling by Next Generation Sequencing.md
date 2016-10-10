@@ -15,7 +15,7 @@ The main goal of the workshop will be to show how R can be helpful in data analy
  
 **Required packages**
 
-All required packages are available through Bioconductor. The exact selection of the packages will be dependent on available computer's specification (number of cores and amount of RAM).
+Please install the packages 'Rbowtie','limma','edgeR'. These required packages are available through Bioconductor. Beside these packages please install 'locfit' package from CRAN.
  
 **Required skills of participants**
 
