@@ -2,7 +2,7 @@
 
 ## Available space: We are fully booked.
 
-**Please remember to take your own laptop.**
+## Please remember to take your own laptop.
 
 * Morning (9:00 - 12:30, coffee break 10:30 - 11:00):
     + [Warsztaty wprowadzające do R (in Polish)](details/Warsztaty wprowadzajace do R.md) -- Adam Dąbrowski -- Statistical Office
