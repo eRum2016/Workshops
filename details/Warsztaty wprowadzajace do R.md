@@ -1,7 +1,7 @@
 ##  Warsztaty wprowadzające do R (in Polish) - Adam Dąbrowski (UAM WNGiG)
 
 Place  
-* Collegium Maximum, room 157
+* Statistical Office
 
 Description of proposed workshop
 * 3 godzinne warsztaty wprowadzające z języka R.
