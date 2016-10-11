@@ -7,7 +7,7 @@ Plan of the workshop
 * The workshop is related to both, the traditional approach in R to graphics as well as new concepts such as ggplot, ggmap and sparktable. The basic philosophies of the packages are explained but also a variety of applications are shown. It is out of scope to do practical exercises, but many code examples are shown.
  
 Required packages
-* ggplot2, ggmap, ggvis, sparktable
+* ggplot2, ggvis, sparkTable, VIM, ggmap, sp, ggthemes, gplots
  
 Required skills of participants
 * Basic R
