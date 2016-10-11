@@ -16,6 +16,13 @@ The main goal of the workshop will be to show how R can be helpful in data analy
 **Required packages**
 
 Please install the packages 'Rbowtie','limma','edgeR'. These required packages are available through Bioconductor. Beside these packages please install 'locfit' package from CRAN.
+
+````{R}
+source("https://bioconductor.org/biocLite.R")
+biocLite("Rbowtie")
+biocLite("limma")
+biocLite("edgeR")
+````
  
 **Required skills of participants**
 
