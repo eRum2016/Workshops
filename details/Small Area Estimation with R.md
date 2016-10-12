@@ -26,6 +26,11 @@ area and unit level models
 * Bayesian inference for Small Area Estimation: area and unit level models
 * Non-linear models: disease mapping, estimation of unemployment
 
+
+**Workshop materials**
+
+All workshop materials (including a script to download the required packages) are available from [https://github.com/becarioprecario/SAERTutorial](https://github.com/becarioprecario/SAERTutorial).
+
 **Required packages**
 
 Some of the packages listed in the Official Statistics task view
