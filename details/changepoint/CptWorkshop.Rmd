@@ -281,20 +281,6 @@ data(Nile)
 ```
 If you identify a change, where is it and what are the pre and post change means?
 
-## Example: Nile
-Annual flow volume of the Nile River at Aswan from 1871 to 1970 studied in Cobb(1978).
-```{r}
-nile.default=cpt.mean(Nile)
-cpts(nile.default)
-cpts.ts(nile.default)
-param.est(nile.default)
-```
-
-## Example: Nile
-```{r,fig.height=3,fig.width=7,out.height='0.4\\textheight',out.width='\\textwidth'}
-plot(nile.default)
-```
-
 ## 	
 Multiple Changepoints
 
@@ -411,19 +397,6 @@ data(ftse100)
 ```
 If you identify changes, where are they and what are the variances in each segment?
 
-## Example: FTSE100
-Yahoo! Finance data, daily returns from FTSE100 index.
-```{r}
-data(ftse100)
-ftse.man=cpt.var(ftse100[,2],method='PELT',minseglen=7)
-ncpts(ftse.man)
-```
-
-## Example: FTSE100
-```{r, fig.height=3,fig.width=7,out.height='0.4\\textheight',out.width='\\textwidth'}
-plot(ftse.man,ylab='Returns')
-```
-
 
 ## `cpt.meanvar`
 `cpt.meanvar(data, penalty, pen.value, method, Q, test.stat="Normal", class, param.estimates, shape=1,minseglen=2)`
@@ -460,23 +433,6 @@ data(HC1)
 ts.plot(HC1)
 ```
 
-## Example: HC1
-```{r}
-data(HC1)
-hc1.pelt=cpt.meanvar(HC1,method='PELT',penalty='Manual',
-		pen.value=14)
-ncpts(hc1.pelt)
-```
-## Example: HC1
-```{r,fig.height=3,fig.width=7,out.height='0.4\\textheight',out.width='\\textwidth'}
-plot(hc1.pelt,ylab='G+C Content',cpt.width=3)
-```
-
-## Number of changes?
-Does the number of changes appear reasonable?
-```{r,fig.height=3,fig.width=7,out.height='0.4\\textheight',out.width='\\textwidth'}
-plot(hc1.pelt,ylab='G+C Content',cpt.width=3)
-```
 
 ## CROPS
 **C**hangepoints for a **r**ange **o**f **p**enaltie**s**
@@ -521,25 +477,6 @@ plot(v1.crops,diagnostic=TRUE)
 ## Task
 Look at the FTSE100 data again and use the CROPS technique to determine an appropriate number of changes.
 
-## FTSE100-CROPS
-```{r}
-ftse.crops=cpt.var(ftse100[,2],method='PELT',
-    penalty='CROPS',pen.value=c(5,1000))
-```
-## FTSE100-CROPS
-```{r,out.height='0.55\\textheight'}
-plot(ftse.crops,diagnostic=TRUE)
-abline(v=11,col='red')
-abline(v=34,col='red')
-```
-## FTSE100-CROPS
-```{r,fig.height=3,fig.width=7,out.height='0.4\\textheight',out.width='\\textwidth'}
-plot(ftse.crops,ncpts=11)
-```
-## FTSE100-CROPS
-```{r,fig.height=3,fig.width=7,out.height='0.4\\textheight',out.width='\\textwidth'}
-plot(ftse.crops,ncpts=34)
-```
 
 ## `cpt.np`
 `cpt.np(data, penalty, pen.value, method, test.stat="empirical_distribution", class, minseglen=1, nquantiles=10)`
@@ -582,36 +519,6 @@ plot(out)
 Look at the `HeartRate` data from the `changepoint.np` package.  Use one of the non-parametric functions to see if there is evidence for changes in heart rate.
 ```{r}
 data(HeartRate)
-```
-## HeartRate
-```{r}
-HR.pelt=cpt.np(HeartRate,method='PELT',
-               nquantiles=4*log(length(HeartRate)))
-ncpts(HR.pelt)
-```
-## HeartRate
-```{r,fig.height=3,fig.width=7,out.height='0.4\\textheight',out.width='\\textwidth'}
-plot(HR.pelt)
-```
-## HeartRate
-```{r}
-HR.crops=cpt.np(HeartRate, penalty = "CROPS", 
-        pen.value = c(5,200), method="PELT",minseglen=2,
-        nquantiles =4*log(length(HeartRate)))
-```
-## HeartRate
-```{r, out.height='0.5\\textheight'}
-plot(HR.crops, diagnostic = TRUE)
-abline(v=11,col='red')
-abline(v=15,col='red')
-```
-## HeartRate
-```{r,fig.height=3,fig.width=7,out.height='0.4\\textheight',out.width='\\textwidth'}
-plot(HR.crops, ncpts = 11)
-```
-## HeartRate
-```{r,fig.height=3,fig.width=7,out.height='0.4\\textheight',out.width='\\textwidth'}
-plot(HR.crops, ncpts = 15)
 ```
 
 ## Checking Assumptions
