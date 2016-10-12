@@ -1,5 +1,7 @@
 ## R for industry and business: Statistical tools for quality control and improvement - Emilio L. Cano (The University of Castilla-La Mancha)
- 
+
+Workshop materials at: http://emilio.lcano.com/erum
+
 **Description of proposed workshop**
 
 The aim of this workshop is twofold: bringing R to industry and business, and
